@@ -11,6 +11,12 @@ Group Gr07EC431
 ## 💡Mentor
 - Dr. Bhupendra Kumar
 
+## 🎥Link to the project Video
+- [5G Network Security Analysis Video](https://drive.google.com/drive/folders/1rvhI2eyCQ_4VKtpoZJv1v0O9HkSMUheT?usp=sharing)
+
+## 📑Link to the Overleaf Report
+- [5G Network Security Analysis Report](https://www.overleaf.com/read/dbwgsqvydkmj#22c37f)
+
 ---
 
 ## 📖 Project Overview
